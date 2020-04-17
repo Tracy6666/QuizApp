@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp2</string>
+    <string name="green_pink">Green-Pink</string>
+    <string name="green_blue">Green-Blue</string>
+    <string name="blue_purple">Blue-Purple</string>
+    <string name="yellow_red">Yellow-Red</string>
+    <string name="Question4">When you fold this figure and get a cube, what will be the colours of reciprocal squares?</string>
+    <string name="finish">Finish</string>
+    <string name="_10kg">10KG</string>
+    <string name="_20kg">20KG</string>
+    <string name="_30kg">30KG</string>
+    <string name="_40kg">40KG</string>
+    <string name="Question3">What is the weight of fox?</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="Question2">Which one is the right view for the person who stays at the orange point and looks at the figure from the pointed direction?</string>
+    <string name="Question1">Which one is the top view of the tower on the left?</string>
+    <string name="question5">Frank\'s father has 5 sons. If the names of his 4 sons are Fefe, Fifi, Fofo, Fufu, respectively, then what would be the name of his 5th son?</string>
+</resources>
